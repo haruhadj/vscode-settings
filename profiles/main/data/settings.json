@@ -1,0 +1,105 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "code-runner.runInTerminal": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell 7",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell 7": {
+      "path": "pwsh",
+      "args": [],
+      "icon": "terminal-powershell"
+    },
+    "GitBash": {
+      "path": ["C:\\Users\\Fernandez\\scoop\\shims\\bash.exe"],
+      "icon": "terminal-bash"
+    },
+    "wt": {
+      "path": ["C:\\Users\\Fernandez\\scoop\\shims\\wt.exe"],
+    }
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 16,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.tabCompletion": "on",
+  "files.associations": {
+    "*.py": "python"
+  },
+  "tabnine.experimentalAutoImports": true,
+  "workbench.productIconTheme": "material-product-icons",
+  "better-comments.highlightPlainText": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "editor.suggest.selectionMode": "whenQuickSuggestion",
+  "editor.snippetSuggestions": "top",
+  "fiveServer.injectBody": true,
+  "fiveServer.highlight": true,
+  "code-runner.saveFileBeforeRun": true,
+  "terminal.external.windowsExec": "C:\\Users\\Fernandez\\scoop\\shims\\wt.exe",
+  "terminal.integrated.fontFamily": "MesloLGMDZ Nerd Font",
+  "codeium.enableConfig": {
+    "*": false
+  },
+  "terminal.integrated.fontSize": 12,
+  "workbench.colorTheme": "Dracula",
+  "syncSettings.confirmSync": true,
+  "syncSettings.resources": [
+    "extensions",
+    "keybindings",
+    "settings",
+    "snippets",
+    "uiState"
+  ],
+  "syncSettings.hooks.postUpload": "eww",
+  "syncSettings.crons": {
+    "sync settings": {
+      "schedule": "0 0 */3 * *",
+      "command": "syncSettings.upload"
+    }
+  }
+}
