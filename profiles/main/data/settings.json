@@ -77,13 +77,13 @@
   ],
   "editor.suggest.selectionMode": "whenQuickSuggestion",
   "editor.snippetSuggestions": "top",
-  "fiveServer.injectBody": true,
-  "fiveServer.highlight": true,
   "code-runner.saveFileBeforeRun": true,
   "terminal.external.windowsExec": "C:\\Users\\Fernandez\\scoop\\shims\\wt.exe",
   "terminal.integrated.fontFamily": "MesloLGMDZ Nerd Font",
   "codeium.enableConfig": {
-    "*": false
+    "*": true,
+    "html": false,
+    "css": false
   },
   "terminal.integrated.fontSize": 12,
   "workbench.colorTheme": "Dracula",
@@ -97,9 +97,9 @@
   ],
   "syncSettings.hooks.postUpload": "eww",
   "syncSettings.crons": {
-    "sync settings": {
-      "schedule": "0 0 */3 * *",
-      "command": "syncSettings.upload"
-    }
-  }
+    "review": "0 0 12 ? * 1/3 *",
+    "upload": "0 0 12 ? * 1/3 *"
+  },
+  "livePreview.customExternalBrowser": "Chrome",
+  "fiveServer.injectBody": true
 }

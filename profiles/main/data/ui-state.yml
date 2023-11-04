@@ -1,7 +1,219 @@
 Codeium.codeium: '{"codeium.chatAnnounceNotificationShown":true}'
 Codium.codium: '{"installation_id":"86af8fcd-2dd1-49dc-b54d-ea686b06bd84","installation_fingerprint":"someValue.machineId-Codium.codium-c:\\Users\\Fernandez\\scoop\\apps\\vscodium\\1.81.1.23222\\data\\extensions\\codium.codium-0.6.43-universal-c:\\Users\\Fernandez\\scoop\\apps\\vscodium\\1.81.1.23222\\resources\\app","installation_fingerprint_uuid":"0fc6b9ac-188c-50a9-aaba-2bca007b96b1","distinct_id":"0fc6b9ac-188c-50a9-aaba-2bca007b96b1"}'
+DanielSanMedium.dscodegpt: '{"codeGPTUserId":"d45f15ca-f7ef-4e2b-8b85-eaa198993e3d","apiKeyFirstTime":"true","history":"\n            <div
+  class=\"wrapper false\">\n                <div
+  class=\"chat\">\n                    <div class=\"profile
+  chat_header\">\n                        <svg width=\"16\" height=\"16\"
+  viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"
+  fill=\"currentColor\"><path d=\"M16 7.992C16 3.58 12.416 0 8 0S0 3.58 0
+  7.992c0 2.43 1.104 4.62 2.832
+  6.09.016.016.032.016.032.032.144.112.288.224.448.336.08.048.144.111.224.175A7.98
+  7.98 0 0 0 8.016 16a7.98 7.98 0 0 0
+  4.48-1.375c.08-.048.144-.111.224-.16.144-.111.304-.223.448-.335.016-.016.032-.016.032-.032
+  1.696-1.487 2.8-3.676 2.8-6.106zm-8 7.001c-1.504
+  0-2.88-.48-4.016-1.279.016-.128.048-.255.08-.383a4.17 4.17 0 0 1
+  .416-.991c.176-.304.384-.576.64-.816.24-.24.528-.463.816-.639.304-.176.624-.304.976-.4A4.15
+  4.15 0 0 1 8 10.342a4.185 4.185 0 0 1 2.928 1.166c.368.368.656.8.864
+  1.295.112.288.192.592.24.911A7.03 7.03 0 0 1 8 14.993zm-2.448-7.4a2.49 2.49 0
+  0
+  1-.208-1.024c0-.351.064-.703.208-1.023.144-.32.336-.607.576-.847.24-.24.528-.431.848-.575.32-.144.672-.208
+  1.024-.208.368 0 .704.064
+  1.024.208.32.144.608.336.848.575.24.24.432.528.576.847.144.32.208.672.208
+  1.023 0 .368-.064.704-.208 1.023a2.84 2.84 0 0 1-.576.848 2.84 2.84 0 0
+  1-.848.575 2.715 2.715 0 0 1-2.064 0 2.84 2.84 0 0 1-.848-.575 2.526 2.526 0 0
+  1-.56-.848zm7.424 5.306c0-.032-.016-.048-.016-.08a5.22 5.22 0 0 0-.688-1.406
+  4.883 4.883 0 0 0-1.088-1.135 5.207 5.207 0 0 0-1.04-.608 2.82 2.82 0 0 0
+  .464-.383 4.2 4.2 0 0 0 .624-.784 3.624 3.624 0 0 0 .528-1.934 3.71 3.71 0 0
+  0-.288-1.47 3.799 3.799 0 0 0-.816-1.199 3.845 3.845 0 0 0-1.2-.8 3.72 3.72 0
+  0 0-1.472-.287 3.72 3.72 0 0 0-1.472.288 3.631 3.631 0 0 0-1.2.815 3.84 3.84 0
+  0 0-.8 1.199 3.71 3.71 0 0 0-.288 1.47c0 .352.048.688.144
+  1.007.096.336.224.64.4.927.16.288.384.544.624.784.144.144.304.271.48.383a5.12
+  5.12 0 0 0-1.04.624c-.416.32-.784.703-1.088 1.119a4.999 4.999 0 0 0-.688
+  1.406c-.016.032-.016.064-.016.08C1.776 11.636.992 9.91.992 7.992.992 4.14
+  4.144.991 8 .991s7.008 3.149 7.008 7.001a6.96 6.96 0 0 1-2.032
+  4.907z\"></path></svg>\n                        <span>USER</span>\n                    </div>\n                    <div
+  class=\"message\" id=\"undefined\"><p>make the logo img and the school-name
+  have
+  spcing\n</p></div>\n                </div>\n            </div>\n        \n            <div
+  class=\"wrapper ai\"><button class=\"copyAll-button\" title=\"Copy all\"><svg
+  width=\"1.5rem\" height=\"1.5rem\" viewBox=\"0 0 24 24\" fill=\"none\"
+  xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19.53 8L14 2.47C13.8595
+  2.32931 13.6688 2.25018 13.47 2.25H11C10.2707 2.25 9.57118 2.53973 9.05546
+  3.05546C8.53973 3.57118 8.25 4.27065 8.25 5V6.25H7C6.27065 6.25 5.57118
+  6.53973 5.05546 7.05546C4.53973 7.57118 4.25 8.27065 4.25 9V19C4.25 19.7293
+  4.53973 20.4288 5.05546 20.9445C5.57118 21.4603 6.27065 21.75 7
+  21.75H14C14.7293 21.75 15.4288 21.4603 15.9445 20.9445C16.4603 20.4288 16.75
+  19.7293 16.75 19V17.75H17C17.7293 17.75 18.4288 17.4603 18.9445
+  16.9445C19.4603 16.4288 19.75 15.7293 19.75 15V8.5C19.7421 8.3116 19.6636
+  8.13309 19.53 8ZM14.25 4.81L17.19 7.75H14.25V4.81ZM15.25 19C15.25 19.3315
+  15.1183 19.6495 14.8839 19.8839C14.6495 20.1183 14.3315 20.25 14
+  20.25H7C6.66848 20.25 6.35054 20.1183 6.11612 19.8839C5.8817 19.6495 5.75
+  19.3315 5.75 19V9C5.75 8.66848 5.8817 8.35054 6.11612 8.11612C6.35054 7.8817
+  6.66848 7.75 7 7.75H8.25V15C8.25 15.7293 8.53973 16.4288 9.05546
+  16.9445C9.57118 17.4603 10.2707 17.75 11 17.75H15.25V19ZM17 16.25H11C10.6685
+  16.25 10.3505 16.1183 10.1161 15.8839C9.8817 15.6495 9.75 15.3315 9.75
+  15V5C9.75 4.66848 9.8817 4.35054 10.1161 4.11612C10.3505 3.8817 10.6685 3.75
+  11 3.75H12.75V8.5C12.7526 8.69811 12.8324 8.88737 12.9725 9.02747C13.1126
+  9.16756 13.3019 9.24741 13.5 9.25H18.25V15C18.25 15.3315 18.1183 15.6495
+  17.8839 15.8839C17.6495 16.1183 17.3315 16.25 17 16.25Z\"
+  fill=\"#808080\"></path></svg></button>\n                <div
+  class=\"chat\">\n                    <div class=\"profile
+  chat_header\">\n                        <svg width=\"16\" height=\"16\"
+  viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"
+  fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\"
+  d=\"M8.48 4h4l.5.5v2.03h.52l.5.5V8l-.5.5h-.52v3l-.5.5H9.36l-2.5 2.76L6
+  14.4V12H3.5l-.5-.64V8.5h-.5L2 8v-.97l.5-.5H3V4.36L3.53 4h4V2.86A1 1 0 0 1 7
+  2a1 1 0 0 1 2 0 1 1 0 0 1-.52.83V4zM12
+  8V5H4v5.86l2.5.14H7v2.19l1.8-2.04.35-.15H12V8zm-2.12.51a2.71 2.71 0 0
+  1-1.37.74v-.01a2.71 2.71 0 0 1-2.42-.74l-.7.71c.34.34.745.608
+  1.19.79.45.188.932.286 1.42.29a3.7 3.7 0 0 0 2.58-1.07l-.7-.71zM6.49
+  6.5h-1v1h1v-1zm3
+  0h1v1h-1v-1z\"></path></svg>\n                        <span>CODEGPT</span>\n                    </div>\n                    <div
+  class=\"message\" id=\"id-1697615241443-0.40b4f732796a1\"><p>
+  </p></div>\n                </div>\n            </div>\n        \n            <div
+  class=\"wrapper false\">\n                <div
+  class=\"chat\">\n                    <div class=\"profile
+  chat_header\">\n                        <svg width=\"16\" height=\"16\"
+  viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"
+  fill=\"currentColor\"><path d=\"M16 7.992C16 3.58 12.416 0 8 0S0 3.58 0
+  7.992c0 2.43 1.104 4.62 2.832
+  6.09.016.016.032.016.032.032.144.112.288.224.448.336.08.048.144.111.224.175A7.98
+  7.98 0 0 0 8.016 16a7.98 7.98 0 0 0
+  4.48-1.375c.08-.048.144-.111.224-.16.144-.111.304-.223.448-.335.016-.016.032-.016.032-.032
+  1.696-1.487 2.8-3.676 2.8-6.106zm-8 7.001c-1.504
+  0-2.88-.48-4.016-1.279.016-.128.048-.255.08-.383a4.17 4.17 0 0 1
+  .416-.991c.176-.304.384-.576.64-.816.24-.24.528-.463.816-.639.304-.176.624-.304.976-.4A4.15
+  4.15 0 0 1 8 10.342a4.185 4.185 0 0 1 2.928 1.166c.368.368.656.8.864
+  1.295.112.288.192.592.24.911A7.03 7.03 0 0 1 8 14.993zm-2.448-7.4a2.49 2.49 0
+  0
+  1-.208-1.024c0-.351.064-.703.208-1.023.144-.32.336-.607.576-.847.24-.24.528-.431.848-.575.32-.144.672-.208
+  1.024-.208.368 0 .704.064
+  1.024.208.32.144.608.336.848.575.24.24.432.528.576.847.144.32.208.672.208
+  1.023 0 .368-.064.704-.208 1.023a2.84 2.84 0 0 1-.576.848 2.84 2.84 0 0
+  1-.848.575 2.715 2.715 0 0 1-2.064 0 2.84 2.84 0 0 1-.848-.575 2.526 2.526 0 0
+  1-.56-.848zm7.424 5.306c0-.032-.016-.048-.016-.08a5.22 5.22 0 0 0-.688-1.406
+  4.883 4.883 0 0 0-1.088-1.135 5.207 5.207 0 0 0-1.04-.608 2.82 2.82 0 0 0
+  .464-.383 4.2 4.2 0 0 0 .624-.784 3.624 3.624 0 0 0 .528-1.934 3.71 3.71 0 0
+  0-.288-1.47 3.799 3.799 0 0 0-.816-1.199 3.845 3.845 0 0 0-1.2-.8 3.72 3.72 0
+  0 0-1.472-.287 3.72 3.72 0 0 0-1.472.288 3.631 3.631 0 0 0-1.2.815 3.84 3.84 0
+  0 0-.8 1.199 3.71 3.71 0 0 0-.288 1.47c0 .352.048.688.144
+  1.007.096.336.224.64.4.927.16.288.384.544.624.784.144.144.304.271.48.383a5.12
+  5.12 0 0 0-1.04.624c-.416.32-.784.703-1.088 1.119a4.999 4.999 0 0 0-.688
+  1.406c-.016.032-.016.064-.016.08C1.776 11.636.992 9.91.992 7.992.992 4.14
+  4.144.991 8 .991s7.008 3.149 7.008 7.001a6.96 6.96 0 0 1-2.032
+  4.907z\"></path></svg>\n                        <span>USER</span>\n                    </div>\n                    <div
+  class=\"message\"
+  id=\"undefined\"><p>hi</p></div>\n                </div>\n            </div>\n        \n            <div
+  class=\"wrapper ai\"><button class=\"copyAll-button\" title=\"Copy all\"><svg
+  width=\"1.5rem\" height=\"1.5rem\" viewBox=\"0 0 24 24\" fill=\"none\"
+  xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19.53 8L14 2.47C13.8595
+  2.32931 13.6688 2.25018 13.47 2.25H11C10.2707 2.25 9.57118 2.53973 9.05546
+  3.05546C8.53973 3.57118 8.25 4.27065 8.25 5V6.25H7C6.27065 6.25 5.57118
+  6.53973 5.05546 7.05546C4.53973 7.57118 4.25 8.27065 4.25 9V19C4.25 19.7293
+  4.53973 20.4288 5.05546 20.9445C5.57118 21.4603 6.27065 21.75 7
+  21.75H14C14.7293 21.75 15.4288 21.4603 15.9445 20.9445C16.4603 20.4288 16.75
+  19.7293 16.75 19V17.75H17C17.7293 17.75 18.4288 17.4603 18.9445
+  16.9445C19.4603 16.4288 19.75 15.7293 19.75 15V8.5C19.7421 8.3116 19.6636
+  8.13309 19.53 8ZM14.25 4.81L17.19 7.75H14.25V4.81ZM15.25 19C15.25 19.3315
+  15.1183 19.6495 14.8839 19.8839C14.6495 20.1183 14.3315 20.25 14
+  20.25H7C6.66848 20.25 6.35054 20.1183 6.11612 19.8839C5.8817 19.6495 5.75
+  19.3315 5.75 19V9C5.75 8.66848 5.8817 8.35054 6.11612 8.11612C6.35054 7.8817
+  6.66848 7.75 7 7.75H8.25V15C8.25 15.7293 8.53973 16.4288 9.05546
+  16.9445C9.57118 17.4603 10.2707 17.75 11 17.75H15.25V19ZM17 16.25H11C10.6685
+  16.25 10.3505 16.1183 10.1161 15.8839C9.8817 15.6495 9.75 15.3315 9.75
+  15V5C9.75 4.66848 9.8817 4.35054 10.1161 4.11612C10.3505 3.8817 10.6685 3.75
+  11 3.75H12.75V8.5C12.7526 8.69811 12.8324 8.88737 12.9725 9.02747C13.1126
+  9.16756 13.3019 9.24741 13.5 9.25H18.25V15C18.25 15.3315 18.1183 15.6495
+  17.8839 15.8839C17.6495 16.1183 17.3315 16.25 17 16.25Z\"
+  fill=\"#808080\"></path></svg></button>\n                <div
+  class=\"chat\">\n                    <div class=\"profile
+  chat_header\">\n                        <svg width=\"16\" height=\"16\"
+  viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"
+  fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\"
+  d=\"M8.48 4h4l.5.5v2.03h.52l.5.5V8l-.5.5h-.52v3l-.5.5H9.36l-2.5 2.76L6
+  14.4V12H3.5l-.5-.64V8.5h-.5L2 8v-.97l.5-.5H3V4.36L3.53 4h4V2.86A1 1 0 0 1 7
+  2a1 1 0 0 1 2 0 1 1 0 0 1-.52.83V4zM12
+  8V5H4v5.86l2.5.14H7v2.19l1.8-2.04.35-.15H12V8zm-2.12.51a2.71 2.71 0 0
+  1-1.37.74v-.01a2.71 2.71 0 0 1-2.42-.74l-.7.71c.34.34.745.608
+  1.19.79.45.188.932.286 1.42.29a3.7 3.7 0 0 0 2.58-1.07l-.7-.71zM6.49
+  6.5h-1v1h1v-1zm3
+  0h1v1h-1v-1z\"></path></svg>\n                        <span>CODEGPT</span>\n                    </div>\n                    <div
+  class=\"message\" id=\"id-1697615277981-0.f4cc9c0f1ba13\"><p>
+  </p></div>\n                </div>\n            </div>\n        \n            <div
+  class=\"wrapper false\">\n                <div
+  class=\"chat\">\n                    <div class=\"profile
+  chat_header\">\n                        <svg width=\"16\" height=\"16\"
+  viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"
+  fill=\"currentColor\"><path d=\"M16 7.992C16 3.58 12.416 0 8 0S0 3.58 0
+  7.992c0 2.43 1.104 4.62 2.832
+  6.09.016.016.032.016.032.032.144.112.288.224.448.336.08.048.144.111.224.175A7.98
+  7.98 0 0 0 8.016 16a7.98 7.98 0 0 0
+  4.48-1.375c.08-.048.144-.111.224-.16.144-.111.304-.223.448-.335.016-.016.032-.016.032-.032
+  1.696-1.487 2.8-3.676 2.8-6.106zm-8 7.001c-1.504
+  0-2.88-.48-4.016-1.279.016-.128.048-.255.08-.383a4.17 4.17 0 0 1
+  .416-.991c.176-.304.384-.576.64-.816.24-.24.528-.463.816-.639.304-.176.624-.304.976-.4A4.15
+  4.15 0 0 1 8 10.342a4.185 4.185 0 0 1 2.928 1.166c.368.368.656.8.864
+  1.295.112.288.192.592.24.911A7.03 7.03 0 0 1 8 14.993zm-2.448-7.4a2.49 2.49 0
+  0
+  1-.208-1.024c0-.351.064-.703.208-1.023.144-.32.336-.607.576-.847.24-.24.528-.431.848-.575.32-.144.672-.208
+  1.024-.208.368 0 .704.064
+  1.024.208.32.144.608.336.848.575.24.24.432.528.576.847.144.32.208.672.208
+  1.023 0 .368-.064.704-.208 1.023a2.84 2.84 0 0 1-.576.848 2.84 2.84 0 0
+  1-.848.575 2.715 2.715 0 0 1-2.064 0 2.84 2.84 0 0 1-.848-.575 2.526 2.526 0 0
+  1-.56-.848zm7.424 5.306c0-.032-.016-.048-.016-.08a5.22 5.22 0 0 0-.688-1.406
+  4.883 4.883 0 0 0-1.088-1.135 5.207 5.207 0 0 0-1.04-.608 2.82 2.82 0 0 0
+  .464-.383 4.2 4.2 0 0 0 .624-.784 3.624 3.624 0 0 0 .528-1.934 3.71 3.71 0 0
+  0-.288-1.47 3.799 3.799 0 0 0-.816-1.199 3.845 3.845 0 0 0-1.2-.8 3.72 3.72 0
+  0 0-1.472-.287 3.72 3.72 0 0 0-1.472.288 3.631 3.631 0 0 0-1.2.815 3.84 3.84 0
+  0 0-.8 1.199 3.71 3.71 0 0 0-.288 1.47c0 .352.048.688.144
+  1.007.096.336.224.64.4.927.16.288.384.544.624.784.144.144.304.271.48.383a5.12
+  5.12 0 0 0-1.04.624c-.416.32-.784.703-1.088 1.119a4.999 4.999 0 0 0-.688
+  1.406c-.016.032-.016.064-.016.08C1.776 11.636.992 9.91.992 7.992.992 4.14
+  4.144.991 8 .991s7.008 3.149 7.008 7.001a6.96 6.96 0 0 1-2.032
+  4.907z\"></path></svg>\n                        <span>USER</span>\n                    </div>\n                    <div
+  class=\"message\"
+  id=\"undefined\"><p>heyt</p></div>\n                </div>\n            </div>\n        \n            <div
+  class=\"wrapper ai\"><button class=\"copyAll-button\" title=\"Copy all\"><svg
+  width=\"1.5rem\" height=\"1.5rem\" viewBox=\"0 0 24 24\" fill=\"none\"
+  xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19.53 8L14 2.47C13.8595
+  2.32931 13.6688 2.25018 13.47 2.25H11C10.2707 2.25 9.57118 2.53973 9.05546
+  3.05546C8.53973 3.57118 8.25 4.27065 8.25 5V6.25H7C6.27065 6.25 5.57118
+  6.53973 5.05546 7.05546C4.53973 7.57118 4.25 8.27065 4.25 9V19C4.25 19.7293
+  4.53973 20.4288 5.05546 20.9445C5.57118 21.4603 6.27065 21.75 7
+  21.75H14C14.7293 21.75 15.4288 21.4603 15.9445 20.9445C16.4603 20.4288 16.75
+  19.7293 16.75 19V17.75H17C17.7293 17.75 18.4288 17.4603 18.9445
+  16.9445C19.4603 16.4288 19.75 15.7293 19.75 15V8.5C19.7421 8.3116 19.6636
+  8.13309 19.53 8ZM14.25 4.81L17.19 7.75H14.25V4.81ZM15.25 19C15.25 19.3315
+  15.1183 19.6495 14.8839 19.8839C14.6495 20.1183 14.3315 20.25 14
+  20.25H7C6.66848 20.25 6.35054 20.1183 6.11612 19.8839C5.8817 19.6495 5.75
+  19.3315 5.75 19V9C5.75 8.66848 5.8817 8.35054 6.11612 8.11612C6.35054 7.8817
+  6.66848 7.75 7 7.75H8.25V15C8.25 15.7293 8.53973 16.4288 9.05546
+  16.9445C9.57118 17.4603 10.2707 17.75 11 17.75H15.25V19ZM17 16.25H11C10.6685
+  16.25 10.3505 16.1183 10.1161 15.8839C9.8817 15.6495 9.75 15.3315 9.75
+  15V5C9.75 4.66848 9.8817 4.35054 10.1161 4.11612C10.3505 3.8817 10.6685 3.75
+  11 3.75H12.75V8.5C12.7526 8.69811 12.8324 8.88737 12.9725 9.02747C13.1126
+  9.16756 13.3019 9.24741 13.5 9.25H18.25V15C18.25 15.3315 18.1183 15.6495
+  17.8839 15.8839C17.6495 16.1183 17.3315 16.25 17 16.25Z\"
+  fill=\"#808080\"></path></svg></button>\n                <div
+  class=\"chat\">\n                    <div class=\"profile
+  chat_header\">\n                        <svg width=\"16\" height=\"16\"
+  viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"
+  fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\"
+  d=\"M8.48 4h4l.5.5v2.03h.52l.5.5V8l-.5.5h-.52v3l-.5.5H9.36l-2.5 2.76L6
+  14.4V12H3.5l-.5-.64V8.5h-.5L2 8v-.97l.5-.5H3V4.36L3.53 4h4V2.86A1 1 0 0 1 7
+  2a1 1 0 0 1 2 0 1 1 0 0 1-.52.83V4zM12
+  8V5H4v5.86l2.5.14H7v2.19l1.8-2.04.35-.15H12V8zm-2.12.51a2.71 2.71 0 0
+  1-1.37.74v-.01a2.71 2.71 0 0 1-2.42-.74l-.7.71c.34.34.745.608
+  1.19.79.45.188.932.286 1.42.29a3.7 3.7 0 0 0 2.58-1.07l-.7-.71zM6.49
+  6.5h-1v1h1v-1zm3
+  0h1v1h-1v-1z\"></path></svg>\n                        <span>CODEGPT</span>\n                    </div>\n                    <div
+  class=\"message\" id=\"id-1697615307773-0.a80ac838e5f2\"><p>OpenAI API
+  Response was: Error 429: You exceeded your current quota, please check your
+  plan and billing details. More information about this error: <a
+  href=\"https://docs.codegpt.co/docs/tutorial-basics/api_errors\">https://docs.codegpt.co/docs/tutorial-basics/api_errors</a></p>\n</div>\n                </div>\n            </div>\n        <div
+  id=\"scrollDiv\"></div>"}'
 Equinusocio.vsc-material-theme: '{"vsc-material-theme.version":"33.10.5"}'
-genieai.chatgpt-vscode: '{"genieai-oneshot-visible":false,"genieai-oneshot-info-hidden-v1":true}'
+genieai.chatgpt-vscode: '{"genieai-oneshot-visible":true,"genieai-oneshot-info-hidden-v1":true}'
 ms-python.python: '{"PYTHON_ENV_INFO_CACHE":[{"name":"","location":"","kind":"global-other","executable":{"filename":"C:\\Users\\Fernandez\\AppData\\Local\\Programs\\Python\\Python311\\python.exe","sysPrefix":"C:\\Users\\Fernandez\\AppData\\Local\\Programs\\Python\\Python311","ctime":1691069366031,"mtime":1686088894000},"display":"Python
   3.11.4
   64-bit","version":{"major":3,"minor":11,"micro":4,"release":{"level":"final","serial":0},"sysVersion":"3.11.4
@@ -17,8 +229,8 @@ ms-python.python: '{"PYTHON_ENV_INFO_CACHE":[{"name":"","location":"","kind":"gl
   64-bit"},"isRemoteGlobalSettingCopiedKey":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\FERNANDEZ\\DESKTOP\\FILES\\DESKTOP\\COMPSCI\\MY_FCC_COURSE\\RESPONSIVE-WEB-DESIGN":true,"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key":["C:\\USERS\\FERNANDEZ\\DESKTOP\\FILES\\DESKTOP\\COMPSCI\\MY_FCC_COURSE\\RESPONSIVE-WEB-DESIGN"],"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key","defaultValue":[]},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\USERS\\FERNANDEZ\\DESKTOP\\FILES\\DESKTOP\\COMPSCI\\MY_FCC_COURSE\\RESPONSIVE-WEB-DESIGN","defaultValue":false},{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]},{"key":"PythonTensorBoardWebviewPreferredViewGroup","defaultValue":-1},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\USERS\\FERNANDEZ\\DESKTOP\\FILES\\DESKTOP\\COMPSCI\\MY_FCC_COURSE\\RESPONSIVE-WEB-DESIGN"},{"key":"preferredGlobalPyInterpreter"},{"key":"isRemoteGlobalSettingCopiedKey","defaultValue":false},{"key":"PYTHON_ENV_INFO_CACHE","defaultValue":[]},{"key":"VSCode.ABExp.FeatureData","defaultValue":{"features":[]}}],"pylanceDefaultPromptMemento":true}'
 sourcegraph.cody-ai: '{"sourcegraphAnonymousUid":"1fc5a617-3783-4ccd-bc2f-6aa193ab9956","SOURCEGRAPH_CODY_ENDPOINT":"https://sourcegraph.com/","SOURCEGRAPH_CODY_ENDPOINT_HISTORY":["https://sourcegraph.com/"],"extension.hasActivatedPreviously":"true"}'
 TabNine.tabnine-vscode: '{"already-opened-getting-started":true,"status-bar-first-time-clicked":true,"\"preview-notification-1\"_1693060789767":true}'
-vscode-icons-team.vscode-icons: '{"vsicons":{"version":"12.5.0","status":0,"welcomeShown":true}}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.tabnine","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.chatgpt-vscode-view-container","pinned":true,"visible":true,"order":11},{"id":"workbench.view.extension.codegeex-sidebar","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.vscode-chatgpt-view-container","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.codeium","pinned":true,"visible":true,"order":9},{"id":"workbench.view.extension.MutableAI-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.codegpt-sidebar-view","pinned":true,"visible":true,"order":10},{"id":"workbench.view.extension.rubberduck","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cody","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.aicursor","pinned":true,"visible":true,"order":12},{"id":"workbench.view.extension.codium-sidebar-view-container","pinned":true,"visible":false,"order":12},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+vscode-icons-team.vscode-icons: '{"vsicons":{"version":"12.6.0","status":0,"welcomeShown":true}}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.tabnine","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.chatgpt-vscode-view-container","pinned":true,"visible":true,"order":11},{"id":"workbench.view.extension.codegeex-sidebar","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.vscode-chatgpt-view-container","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.codeium","pinned":true,"visible":true,"order":9},{"id":"workbench.view.extension.MutableAI-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.codegpt-sidebar-view","pinned":true,"visible":true,"order":10},{"id":"workbench.view.extension.rubberduck","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cody","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.aicursor","pinned":true,"visible":true,"order":12},{"id":"workbench.view.extension.codium-sidebar-view-container","pinned":true,"visible":false,"order":12},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -28,9 +240,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   view-icon\"},\"name\":\"Source
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount !=
-  '0'\"},{}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view\
-  -icon\"},\"name\":\"Run and
-  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  '0'\"},{},{\"when\":\"config.scm.experimental.showSyncView\"}]},{\"id\":\"wor\
+  kbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\"Run
+  and Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
   'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
@@ -79,12 +291,12 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   es/openai-logo.svg\",\"scheme\":\"file\"},\"name\":\"ChatGPT\",\"isBuiltin\":\
   false,\"views\":[{}]},{\"id\":\"workbench.view.extension.cspell-explorer\",\"\
   isBuiltin\":false},{\"id\":\"workbench.view.extension.codeium\",\"iconUrl\":{\
-  \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/codeium.codeium-1.2.85-universa\
+  \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/codeium.codeium-1.2.97-universa\
   l/assets/codeium.svg\",\"scheme\":\"file\"},\"name\":\"Codeium\",\"isBuiltin\
   \":false,\"views\":[{},{}]},{\"id\":\"workbench.view.extension.MutableAI-expl\
   orer\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.codegpt-sideba\
   r-view\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/danielsan\
-  medium.dscodegpt-2.1.18-universal/media/code_gpt_bar.svg\",\"scheme\":\"file\
+  medium.dscodegpt-2.1.22-universal/media/code_gpt_bar.svg\",\"scheme\":\"file\
   \"},\"name\":\"CodeGPT
   Chat\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extension\
   .rubberduck\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.cody\",\
@@ -92,15 +304,17 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ktiays.aicursor-0.5.3-unive\
   rsal/activitybar-icon.svg\",\"scheme\":\"file\"},\"name\":\"CodeCursor\",\"is\
   Builtin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extension.codium-sid\
-  ebar-view-container\",\"isBuiltin\":false},{\"id\":\"userDataProfiles\",\"the\
-  meIcon\":{\"id\":\"defaultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\"\
-  :true,\"views\":[]}]"
+  ebar-view-container\",\"isBuiltin\":false},{\"id\":\"workbench.panel.chatSide\
+  bar\",\"themeIcon\":{\"id\":\"comment-discussion\"},\"name\":\"Chat\",\"isBui\
+  ltin\":true,\"views\":[]},{\"id\":\"userDataProfiles\",\"themeIcon\":{\"id\":\
+  \"defaultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[\
+  ]}]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["python",true],["shellscript",true],["bat",true],["powershell",true],["markdown",true],["javascript",true],["yaml",true],["plaintext",true],["html",true],["snippets",true],["css",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["python",true],["shellscript",true],["bat",true],["powershell",true],["javascript",true],["yaml",true],["snippets",true],["markdown",true],["jsonc",true],["plaintext",true],["html",true],["css",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true}]'
 workbench.grid.size: '{"height":728,"width":1024}'
 workbench.panel.alignment: center
-workbench.panel.lastNonMaximizedHeight: "256"
+workbench.panel.lastNonMaximizedHeight: "222"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
@@ -110,9 +324,9 @@ workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems
   Preview","pinned":true,"visible":false}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "222"
-workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false}]'
-workbench.sideBar.size: "241"
-workbench.statusbar.hidden: '["status.workspaceTrust.1692937425253","status.workspaceTrust.dc61d898238cafc49afef26926de0ee3","status.workspaceTrust.1692953865826","status.workspaceTrust.1692957416193","status.workspaceTrust.df7bb298d693f022a5c2ef03d801244b","status.workspaceTrust.a65fc5c83b5cd95f0327ede0cd731be6","status.workspaceTrust.7f4be85b515650953c6c211ed7aa6e5a","status.workspaceTrust.4334f6f2707d148363b5de70b520fcda","status.workspaceTrust.47ac8fba7643f06a2f11bf3abb0db5bd","yandeu.five-server","status.workspaceTrust.a018b1a25ee9af67fa522e56f4d6759e","status.workspaceTrust.2bd590b3680de9cf0d308927d77fe68b","status.workspaceTrust.427a1aed35d1765960e0e499b328356d","status.workspaceTrust.179975f17c0d00891e4598b34cb5e0d0","status.workspaceTrust.3a6c6eab8059103969aa66e75412481b","status.workspaceTrust.56ecd6955d9ec8628846d2608ed515a9","status.workspaceTrust.fedbbfb767c41f16d154a9fde1927179","status.workspaceTrust.1694177940825","status.workspaceTrust.cf72db39b0bd7ee2a44831ccc4dc3313","status.workspaceTrust.518f333910c3b964d2dad43315d25cac","status.workspaceTrust.bb7e329a32c70cc122928b96272915da","status.workspaceTrust.f2e4481e4e3f000c894879884151cc68","status.workspaceTrust.f2cbbe94ae7c55d3662036570960e2d3","status.workspaceTrust.df36054992aad55d7a12f6e004cd4392","status.workspaceTrust.1694672638663","status.workspaceTrust.be37c5c512f76eb4cb77afd4cb89d014"]'
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.sync","isHidden":false}]'
+workbench.sideBar.size: "200"
+workbench.statusbar.hidden: '["status.workspaceTrust.1692937425253","status.workspaceTrust.dc61d898238cafc49afef26926de0ee3","status.workspaceTrust.1692953865826","status.workspaceTrust.1692957416193","status.workspaceTrust.df7bb298d693f022a5c2ef03d801244b","status.workspaceTrust.a65fc5c83b5cd95f0327ede0cd731be6","status.workspaceTrust.7f4be85b515650953c6c211ed7aa6e5a","status.workspaceTrust.4334f6f2707d148363b5de70b520fcda","status.workspaceTrust.47ac8fba7643f06a2f11bf3abb0db5bd","yandeu.five-server","status.workspaceTrust.a018b1a25ee9af67fa522e56f4d6759e","status.workspaceTrust.2bd590b3680de9cf0d308927d77fe68b","status.workspaceTrust.427a1aed35d1765960e0e499b328356d","status.workspaceTrust.179975f17c0d00891e4598b34cb5e0d0","status.workspaceTrust.3a6c6eab8059103969aa66e75412481b","status.workspaceTrust.56ecd6955d9ec8628846d2608ed515a9","status.workspaceTrust.fedbbfb767c41f16d154a9fde1927179","status.workspaceTrust.1694177940825","status.workspaceTrust.cf72db39b0bd7ee2a44831ccc4dc3313","status.workspaceTrust.518f333910c3b964d2dad43315d25cac","status.workspaceTrust.bb7e329a32c70cc122928b96272915da","status.workspaceTrust.f2e4481e4e3f000c894879884151cc68","status.workspaceTrust.f2cbbe94ae7c55d3662036570960e2d3","status.workspaceTrust.df36054992aad55d7a12f6e004cd4392","status.workspaceTrust.1694672638663","status.workspaceTrust.be37c5c512f76eb4cb77afd4cb89d014","status.workspaceTrust.a3f3cf28e1e15b1353a775dbb3fb295f","status.workspaceTrust.b3792f484306d97e252b9b999a7042c1","status.workspaceTrust.1697590457900","status.workspaceTrust.1697609757247","status.workspaceTrust.b0d1846ef56306c2b7e39a4dad2736dc","status.workspaceTrust.6c5b8c680c127358ff24a29329248fa0","status.workspaceTrust.bec3ae82015867c5ac61c7e4c40f5b02","status.workspaceTrust.1697704545395"]'
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false}]'
 workbench.view.extension.aicursor.state.hidden: '[{"id":"chat","isHidden":false}]'
 workbench.view.extension.chatgpt-vscode-view-container.state.hidden: '[{"id":"chatgpt-vscode.view","isHidden":false}]'
