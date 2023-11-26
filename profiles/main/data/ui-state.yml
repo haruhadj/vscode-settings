@@ -1,4 +1,4 @@
-Codeium.codeium: '{"codeium.chatAnnounceNotificationShown":true}'
+Codeium.codeium: '{"codeium.chatAnnounceNotificationShown":true,"codeium.shown_codeiumCommand_v2":1}'
 Codium.codium: '{"installation_id":"86af8fcd-2dd1-49dc-b54d-ea686b06bd84","installation_fingerprint":"someValue.machineId-Codium.codium-c:\\Users\\Fernandez\\scoop\\apps\\vscodium\\1.81.1.23222\\data\\extensions\\codium.codium-0.6.43-universal-c:\\Users\\Fernandez\\scoop\\apps\\vscodium\\1.81.1.23222\\resources\\app","installation_fingerprint_uuid":"0fc6b9ac-188c-50a9-aaba-2bca007b96b1","distinct_id":"0fc6b9ac-188c-50a9-aaba-2bca007b96b1"}'
 DanielSanMedium.dscodegpt: '{"codeGPTUserId":"d45f15ca-f7ef-4e2b-8b85-eaa198993e3d","apiKeyFirstTime":"true","history":"\n            <div
   class=\"wrapper false\">\n                <div
@@ -255,26 +255,8 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   jsDebugHasExcludedCallers && debugType ==
   'pwa-node'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\
   \"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\
-  \":[{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExtensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
-  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
-  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
-  \":\"searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"w\
-  hen\":\"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\
-  \"when\":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensi\
-  ons\"},{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"w\
-  hen\":\"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupported\
-  WorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
-  kbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"n\
-  ame\":\"Remote
+  \":[]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explo\
+  rer-view-icon\"},\"name\":\"Remote
   Explorer\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
   n.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isB\
   uiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
@@ -283,15 +265,15 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"when\":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.ta\
   bnine\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.chatgpt-vscod\
   e-view-container\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%\
-  /genieai.chatgpt-vscode-0.0.7-universal/images/ai-logo.svg\",\"scheme\":\"file\
+  /genieai.chatgpt-vscode-0.0.9-universal/images/ai-logo.svg\",\"scheme\":\"file\
   \"},\"name\":\"Genie\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbenc\
   h.view.extension.codegeex-sidebar\",\"isBuiltin\":false},{\"id\":\"workbench.\
   view.extension.vscode-chatgpt-view-container\",\"iconUrl\":{\"$mid\":1,\"path\
-  \":\"%%EXTENSION_DATA_PATH%%/chris-hayes.chatgpt-reborn-3.19.1-universal/imag\
+  \":\"%%EXTENSION_DATA_PATH%%/chris-hayes.chatgpt-reborn-3.20.1-universal/imag\
   es/openai-logo.svg\",\"scheme\":\"file\"},\"name\":\"ChatGPT\",\"isBuiltin\":\
   false,\"views\":[{}]},{\"id\":\"workbench.view.extension.cspell-explorer\",\"\
   isBuiltin\":false},{\"id\":\"workbench.view.extension.codeium\",\"iconUrl\":{\
-  \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/codeium.codeium-1.2.97-universa\
+  \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/codeium.codeium-1.4.20-universa\
   l/assets/codeium.svg\",\"scheme\":\"file\"},\"name\":\"Codeium\",\"isBuiltin\
   \":false,\"views\":[{},{}]},{\"id\":\"workbench.view.extension.MutableAI-expl\
   orer\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.codegpt-sideba\
@@ -310,7 +292,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"defaultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[\
   ]}]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["python",true],["shellscript",true],["bat",true],["powershell",true],["javascript",true],["yaml",true],["snippets",true],["markdown",true],["jsonc",true],["plaintext",true],["html",true],["css",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["python",true],["shellscript",true],["bat",true],["powershell",true],["javascript",true],["yaml",true],["snippets",true],["markdown",true],["jsonc",true],["css",true],["plaintext",true],["html",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true}]'
 workbench.grid.size: '{"height":728,"width":1024}'
 workbench.panel.alignment: center
@@ -320,13 +302,13 @@ workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
   Console","pinned":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"workbench.panel.testResults","name":"Test
-  Results","pinned":true,"order":3,"visible":false},{"id":"~remote.forwardedPortsContainer","name":"Ports","pinned":true,"order":5,"visible":true},{"id":"workbench.panel.comments","name":"Comments","pinned":true,"order":10,"visible":false},{"id":"refactorPreview","name":"Refactor
+  Results","pinned":true,"order":3,"visible":false},{"id":"~remote.forwardedPortsContainer","name":"Ports","pinned":true,"order":5,"visible":true},{"id":"workbench.panel.comments","name":"Comments","pinned":true,"order":10,"visible":true},{"id":"refactorPreview","name":"Refactor
   Preview","pinned":true,"visible":false}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "222"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.sync","isHidden":false}]'
 workbench.sideBar.size: "200"
-workbench.statusbar.hidden: '["status.workspaceTrust.1692937425253","status.workspaceTrust.dc61d898238cafc49afef26926de0ee3","status.workspaceTrust.1692953865826","status.workspaceTrust.1692957416193","status.workspaceTrust.df7bb298d693f022a5c2ef03d801244b","status.workspaceTrust.a65fc5c83b5cd95f0327ede0cd731be6","status.workspaceTrust.7f4be85b515650953c6c211ed7aa6e5a","status.workspaceTrust.4334f6f2707d148363b5de70b520fcda","status.workspaceTrust.47ac8fba7643f06a2f11bf3abb0db5bd","yandeu.five-server","status.workspaceTrust.a018b1a25ee9af67fa522e56f4d6759e","status.workspaceTrust.2bd590b3680de9cf0d308927d77fe68b","status.workspaceTrust.427a1aed35d1765960e0e499b328356d","status.workspaceTrust.179975f17c0d00891e4598b34cb5e0d0","status.workspaceTrust.3a6c6eab8059103969aa66e75412481b","status.workspaceTrust.56ecd6955d9ec8628846d2608ed515a9","status.workspaceTrust.fedbbfb767c41f16d154a9fde1927179","status.workspaceTrust.1694177940825","status.workspaceTrust.cf72db39b0bd7ee2a44831ccc4dc3313","status.workspaceTrust.518f333910c3b964d2dad43315d25cac","status.workspaceTrust.bb7e329a32c70cc122928b96272915da","status.workspaceTrust.f2e4481e4e3f000c894879884151cc68","status.workspaceTrust.f2cbbe94ae7c55d3662036570960e2d3","status.workspaceTrust.df36054992aad55d7a12f6e004cd4392","status.workspaceTrust.1694672638663","status.workspaceTrust.be37c5c512f76eb4cb77afd4cb89d014","status.workspaceTrust.a3f3cf28e1e15b1353a775dbb3fb295f","status.workspaceTrust.b3792f484306d97e252b9b999a7042c1","status.workspaceTrust.1697590457900","status.workspaceTrust.1697609757247","status.workspaceTrust.b0d1846ef56306c2b7e39a4dad2736dc","status.workspaceTrust.6c5b8c680c127358ff24a29329248fa0","status.workspaceTrust.bec3ae82015867c5ac61c7e4c40f5b02","status.workspaceTrust.1697704545395"]'
+workbench.statusbar.hidden: '["status.workspaceTrust.1692937425253","status.workspaceTrust.dc61d898238cafc49afef26926de0ee3","status.workspaceTrust.1692953865826","status.workspaceTrust.1692957416193","status.workspaceTrust.df7bb298d693f022a5c2ef03d801244b","status.workspaceTrust.a65fc5c83b5cd95f0327ede0cd731be6","status.workspaceTrust.7f4be85b515650953c6c211ed7aa6e5a","status.workspaceTrust.4334f6f2707d148363b5de70b520fcda","status.workspaceTrust.47ac8fba7643f06a2f11bf3abb0db5bd","yandeu.five-server","status.workspaceTrust.a018b1a25ee9af67fa522e56f4d6759e","status.workspaceTrust.2bd590b3680de9cf0d308927d77fe68b","status.workspaceTrust.427a1aed35d1765960e0e499b328356d","status.workspaceTrust.179975f17c0d00891e4598b34cb5e0d0","status.workspaceTrust.3a6c6eab8059103969aa66e75412481b","status.workspaceTrust.56ecd6955d9ec8628846d2608ed515a9","status.workspaceTrust.fedbbfb767c41f16d154a9fde1927179","status.workspaceTrust.1694177940825","status.workspaceTrust.cf72db39b0bd7ee2a44831ccc4dc3313","status.workspaceTrust.518f333910c3b964d2dad43315d25cac","status.workspaceTrust.bb7e329a32c70cc122928b96272915da","status.workspaceTrust.f2e4481e4e3f000c894879884151cc68","status.workspaceTrust.f2cbbe94ae7c55d3662036570960e2d3","status.workspaceTrust.df36054992aad55d7a12f6e004cd4392","status.workspaceTrust.1694672638663","status.workspaceTrust.be37c5c512f76eb4cb77afd4cb89d014","status.workspaceTrust.a3f3cf28e1e15b1353a775dbb3fb295f","status.workspaceTrust.b3792f484306d97e252b9b999a7042c1","status.workspaceTrust.1697590457900","status.workspaceTrust.1697609757247","status.workspaceTrust.b0d1846ef56306c2b7e39a4dad2736dc","status.workspaceTrust.6c5b8c680c127358ff24a29329248fa0","status.workspaceTrust.bec3ae82015867c5ac61c7e4c40f5b02","status.workspaceTrust.1697704545395","status.workspaceTrust.7f751c07fc271339c53eca8448b0e557"]'
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false}]'
 workbench.view.extension.aicursor.state.hidden: '[{"id":"chat","isHidden":false}]'
 workbench.view.extension.chatgpt-vscode-view-container.state.hidden: '[{"id":"chatgpt-vscode.view","isHidden":false}]'
