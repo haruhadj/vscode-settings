@@ -22,12 +22,6 @@ enabled:
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: Catppuccin.catppuccin-vsc-icons
     uuid: c84e505c-f415-4102-b952-53cb6f0bdf10
-  - id: chris-hayes.chatgpt-reborn
-    uuid: e0867d3a-799d-4b8a-bd89-10e1753ebf10
-  - id: Codeium.codeium
-    uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
-  - id: DanielSanMedium.dscodegpt
-    uuid: eb8db386-b7d8-4961-8048-b188d778a1e9
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: dracula-theme.theme-dracula
@@ -50,8 +44,6 @@ enabled:
     uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
-  - id: genieai.chatgpt-vscode
-    uuid: daf35080-6889-46fc-89bf-288dce8f8ed2
   - id: html-validate.vscode-html-validate
     uuid: 9960844f-3c7d-4911-87c4-d2be48d72dfd
   - id: ktiays.aicursor

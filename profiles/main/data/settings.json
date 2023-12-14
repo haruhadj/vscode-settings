@@ -81,7 +81,7 @@
   "terminal.external.windowsExec": "C:\\Users\\Fernandez\\scoop\\shims\\wt.exe",
   "terminal.integrated.fontFamily": "MesloLGMDZ Nerd Font",
   "codeium.enableConfig": {
-    "*": true,
+    "*": false,
     "html": false,
     "css": false
   },
