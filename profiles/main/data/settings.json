@@ -1,4 +1,10 @@
 {
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "syncSettings.crons": {
+        "upload": "0 11 * * *"
+    },
+    "extensions.supportUntrustedWorkspaces": {},
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.productIconTheme": "material-product-icons"
 }
-
