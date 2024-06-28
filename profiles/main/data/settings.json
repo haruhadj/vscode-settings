@@ -1,10 +1,43 @@
 {
-    "editor.fontSize": 16,
-    "syncSettings.crons": {
-        "upload": "0 11 * * *"
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "terminal.integrated.defaultProfile.windows": "PowerShell7",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell7": {
+            "path": "C:\\Users\\haruhadj\\scoop\\shims\\pwsh.exe"
+        },
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        }
     },
-    "extensions.supportUntrustedWorkspaces": {},
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.productIconTheme": "material-product-icons"
+    "workbench.startupEditor": "none",
+    "code-runner.runInTerminal": true,
+    "editor.fontFamily": "MesloLGM Nerd Font",         //, 'Courier New', monospace", FiraCode Nerd Font
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 12,
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.iconTheme": "eq-material-theme-icons-deepforest",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.linkedEditing": true,
+    "git.enabled": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
 }
