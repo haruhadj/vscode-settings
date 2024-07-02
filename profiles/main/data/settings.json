@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.colorTheme": "Dracula",
     "terminal.integrated.defaultProfile.windows": "PowerShell7",
     "terminal.integrated.profiles.windows": {
         "PowerShell7": {
@@ -27,7 +27,7 @@
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 12,
     "workbench.productIconTheme": "material-product-icons",
-    "workbench.iconTheme": "eq-material-theme-icons-deepforest",
+    "workbench.iconTheme": "vscode-icons",
     "security.workspace.trust.untrustedFiles": "open",
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
