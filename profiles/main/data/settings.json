@@ -23,7 +23,7 @@
     },
     "workbench.startupEditor": "none",
     "code-runner.runInTerminal": true,
-    "editor.fontFamily": "MesloLGM Nerd Font",         //, 'Courier New', monospace", FiraCode Nerd Font
+    "editor.fontFamily": "FiraCode Nerd Font",         //, 'Courier New', monospace", FiraCode Nerd Font
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 12,
     "workbench.productIconTheme": "material-product-icons",
