@@ -34,6 +34,8 @@ enabled:
     uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: Katsute.settings-repository
     uuid: dc0c1188-c7d7-4267-bf2e-5052430a62a7
+  - id: LeonardSSH.vscord
+    uuid: 20675c06-f272-4cc8-8611-83ebb5583c5a
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: ms-azuretools.vscode-docker
@@ -76,5 +78,7 @@ enabled:
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: xabikos.JavaScriptSnippets
     uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
+  - id: yandeu.five-server
+    uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
