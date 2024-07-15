@@ -54,5 +54,11 @@
     "extensions.autoCheckUpdates": false,
     "terminal.integrated.cwd": "${fileDirname}",
     "terminal.integrated.cursorBlinking": true,
-    "fiveServer.injectBody": true
+    "fiveServer.injectBody": true,
+    "settings-repository.repository": "https://github.com/haruhadj/vscode-settings-repo.git",
+    "settings-repository.branch": "main",
+    "syncSettings.crons": {
+        "upload": "0 * * * *"
+    },
+    "settings-repository.autoSync": false
 }
