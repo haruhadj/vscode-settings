@@ -60,5 +60,8 @@
     "syncSettings.crons": {
         "upload": "0 * * * *"
     },
-    "settings-repository.autoSync": false
+    "settings-repository.autoSync": false,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    }
 }
