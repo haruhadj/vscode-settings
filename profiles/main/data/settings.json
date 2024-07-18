@@ -63,6 +63,5 @@
     "settings-repository.autoSync": false,
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "vscord.app.name": "Custom"
+    }
 }
