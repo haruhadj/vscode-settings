@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+shift+alt+f12",
+        "command": "vscord.enable"
+    },
+    {
+        "key": "ctrl+shift+alt+f11",
+        "command": "vscord.disable"
+    }
+]
