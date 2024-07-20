@@ -50,7 +50,6 @@
     "vscord.status.state.text.editing": "Working on {file_name}{file_extension}",
     "vscord.status.state.text.notInFile": "uwu",
     "vscord.status.idle.enabled": false,
-    "vscord.status.idle.disconnectOnIdle": true,
     "extensions.autoCheckUpdates": false,
     "terminal.integrated.cwd": "${fileDirname}",
     "terminal.integrated.cursorBlinking": true,
