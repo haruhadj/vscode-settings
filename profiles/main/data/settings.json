@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Dracula Theme",
     "terminal.integrated.defaultProfile.windows": "PowerShell7",
     "terminal.integrated.profiles.windows": {
         "PowerShell7": {
@@ -58,7 +58,7 @@
     "settings-repository.repository": "https://github.com/haruhadj/vscode-settings-repo.git",
     "settings-repository.branch": "main",
     "syncSettings.crons": {
-        "upload": "0 * * * *"
+        "upload": "0 */2 * * *"
     },
     "settings-repository.autoSync": false,
     "[css]": {
