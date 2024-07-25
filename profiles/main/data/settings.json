@@ -62,5 +62,6 @@
     "settings-repository.autoSync": false,
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
-    }
+    },
+    "vscord.status.idle.disconnectOnIdle": true
 }
