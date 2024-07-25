@@ -57,7 +57,7 @@
     "settings-repository.repository": "https://github.com/haruhadj/vscode-settings-repo.git",
     "settings-repository.branch": "main",
     "syncSettings.crons": {
-        "upload": "0 */2 * * *"
+        "upload": "0 */4 * * *"
     },
     "settings-repository.autoSync": false,
     "[css]": {
