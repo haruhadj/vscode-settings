@@ -36,5 +36,9 @@
     },
     "workbench.colorTheme": "One Dark Pro Darker",
     "workbench.iconTheme": "vscode-icons",
-    "workbench.productIconTheme": "material-product-icons"
+    "workbench.productIconTheme": "material-product-icons",
+    "syncSettings.confirmSync": true,
+    "syncSettings.crons": {
+        "review": "*/5 * * * *"
+    }
 }
