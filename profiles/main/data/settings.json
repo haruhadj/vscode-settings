@@ -28,7 +28,8 @@
             "icon": "terminal-cmd"
         },
         "Git Bash": {
-            "source": "Git Bash"
+            "source": "Git Bash",
+            "icon": "terminal-bash"
         },
         "PowerShell Core": {
             "path": "pwsh.exe"
