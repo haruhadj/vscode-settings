@@ -32,6 +32,19 @@
         },
         "PowerShell Core": {
             "path": "pwsh.exe"
+        },
+        "MSYS2 UCRT64": {
+            "path": "C:\\Users\\haruhadj\\scoop\\apps\\msys2\\current\\msys2_shell.cmd",
+            "args": [
+                "-defterm",
+                "-here",
+                "-no-start",
+                "-ucrt64",
+                "-shell",
+                "zsh"
+            ],
+            "icon": "terminal-bash",
+            "startingDirectory": "C:\\Users\\haruhadj\\scoop\\apps\\msys2\\current\\home\\${env:USERNAME}"
         }
     },
     "workbench.colorTheme": "One Dark Pro Darker",
