@@ -70,6 +70,8 @@ enabled:
     uuid: f797dacd-4e80-4f33-8b63-d665c0956013
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
+  - id: pushqrdx.inline-html
+    uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
   - id: riipandi.vscode-atomizer-theme
     uuid: a0717a89-aae3-41d9-b3d3-a23dbe5fca35
   - id: RobbOwen.synthwave-vscode
