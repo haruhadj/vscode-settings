@@ -48,6 +48,8 @@ enabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: jdinhlife.gruvbox
     uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
+  - id: kuscamara.electron
+    uuid: 975d187d-7d95-4292-92ef-ad9e8f083ca3
   - id: melishev.feather-vscode
     uuid: 94967fdb-d7bf-44d0-b131-12700358b0ab
   - id: miguelsolorio.fluent-icons
