@@ -1,6 +1,10 @@
 disabled:
   - id: Codeium.codeium
     uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
@@ -86,10 +90,6 @@ enabled:
     uuid: d29b49ee-781a-4913-8eba-21fd00d77969
   - id: tobiasalthoff.atom-material-theme
     uuid: ae903c6f-d094-48b1-918b-18947348fe44
-  - id: VisualStudioExptTeam.intellicode-api-usage-examples
-    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
-  - id: VisualStudioExptTeam.vscodeintellicode
-    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: whizkydee.material-palenight-theme
