@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+shift+alt+f9",
+        "command": "syncSettings.review"
+    },
+    {
+        "key": "ctrl+shift+alt+f10",
+        "command": "syncSettings.viewDifferences"
+    }
+]
