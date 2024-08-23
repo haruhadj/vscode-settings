@@ -48,7 +48,7 @@
             "startingDirectory": "C:\\Users\\haruhadj\\scoop\\apps\\msys2\\current\\home\\${env:USERNAME}"
         }
     },
-    "workbench.colorTheme": "Shades of Purple",
+    "workbench.colorTheme": "Shades of Purple (Super Dark)",
     "workbench.iconTheme": "vscode-great-icons",
     "workbench.productIconTheme": "material-product-icons",
     "syncSettings.confirmSync": true,
