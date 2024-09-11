@@ -13,7 +13,7 @@
         "settings",
         "snippets"
     ],
-    "terminal.integrated.defaultProfile.windows": "MSYS2 UCRT64",
+    "terminal.integrated.defaultProfile.windows": "PowerShell Core",
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
             "source": "PowerShell",
