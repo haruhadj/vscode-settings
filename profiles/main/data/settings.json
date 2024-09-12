@@ -49,7 +49,7 @@
         }
     },
     "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "ayu",
     "workbench.productIconTheme": "material-product-icons",
     "syncSettings.confirmSync": true,
     "syncSettings.crons": {
