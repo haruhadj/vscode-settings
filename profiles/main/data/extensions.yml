@@ -66,6 +66,8 @@ enabled:
     uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
   - id: jeff-hykin.better-cpp-syntax
     uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
+  - id: Katsute.code-background
+    uuid: 728b0910-614c-4963-a30b-cc6c0b51eb62
   - id: kisstkondoros.vscode-gutter-preview
     uuid: eedfd044-d5ac-4389-973d-3ac1fdb98ad5
   - id: kuscamara.electron
