@@ -54,5 +54,8 @@
     "syncSettings.confirmSync": true,
     "syncSettings.crons": {
         "review": "*/5 * * * *"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
