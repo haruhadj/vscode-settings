@@ -3,7 +3,6 @@
     "editor.fontFamily": "FiraCode Nerd Font",
     "terminal.integrated.fontSize": 13,
     "code-runner.preserveFocus": false,
-    "code-runner.runInTerminal": true,
     "code-runner.saveFileBeforeRun": true,
     "code-runner.fileDirectoryAsCwd": true,
     "terminal.integrated.cwd": "${fileDirname}",
