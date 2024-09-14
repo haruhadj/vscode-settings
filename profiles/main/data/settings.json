@@ -56,5 +56,6 @@
     },
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "code-runner.runInTerminal": true
 }
