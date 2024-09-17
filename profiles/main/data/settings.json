@@ -61,5 +61,6 @@
     "remote.SSH.remotePlatform": {
         "opipc-main": "linux"
     },
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "cmake.showOptionsMovedNotification": false
 }
