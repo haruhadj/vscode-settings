@@ -57,5 +57,10 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "remote.SSH.remotePlatform": {
+        "opipc-main": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 18
 }
