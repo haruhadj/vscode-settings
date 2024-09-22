@@ -30,6 +30,8 @@ enabled:
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: DigitalBrainstem.javascript-ejs-support
+    uuid: 9cd87837-c82a-4817-9b79-1c84775aa158
   - id: donjayamanne.python-environment-manager
     uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: dracula-theme.theme-dracula
