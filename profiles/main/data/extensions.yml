@@ -82,6 +82,8 @@ enabled:
     uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
   - id: jeff-hykin.better-cpp-syntax
     uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
+  - id: JonathanHarty.gruvbox-material-icon-theme
+    uuid: 8b7b553c-f741-437c-adf5-cc494eb7d4d8
   - id: jtlowe.vscode-icon-theme
     uuid: 0c39b1dc-26df-4737-bb73-a98913b3ddad
   - id: karyfoundation.theme-karyfoundation-themes
