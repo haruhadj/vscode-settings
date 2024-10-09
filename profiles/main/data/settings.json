@@ -50,7 +50,7 @@
     "workbench.productIconTheme": "material-product-icons",
     "syncSettings.confirmSync": true,
     "syncSettings.crons": {
-        "review": "*/5 * * * *"
+        "upload": "*/6 * * * *"
     },
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
