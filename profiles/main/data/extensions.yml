@@ -16,6 +16,8 @@ enabled:
     uuid: b027c4b2-25ad-46db-b574-05dae3b2dc92
   - id: azemoh.theme-onedark
     uuid: cc1b9e15-8d4e-43ed-8a31-b81683af6bc4
+  - id: be5invis.theme-verdandi
+    uuid: d2149167-a7c8-4dea-ad4e-8e7a7fc63f35
   - id: be5invis.vscode-icontheme-nomo-dark
     uuid: e0ee11e7-aa20-4e86-a3b9-2cd7d14fed93
   - id: BeardedBear.beardedicons
@@ -52,6 +54,8 @@ enabled:
     uuid: 829a192d-496c-44ac-87f3-0a84ce36a853
   - id: enkia.tokyo-night
     uuid: 1cac7443-911e-48b9-8341-49f3880c288a
+  - id: Equinusocio.moxer-icons
+    uuid: 1766b3b1-32a4-4d6c-b7b4-6d72871ebd21
   - id: Equinusocio.vsc-material-theme
     uuid: 45bfc9eb-5e03-487f-bffe-315fa6881d6a
   - id: equinusocio.vsc-material-theme-icons
@@ -148,6 +152,8 @@ enabled:
     uuid: e5fd2b56-1637-4d4f-8252-6c9d416f9a28
   - id: sdras.night-owl
     uuid: e58f546c-babc-455f-a265-ba40dbd140d4
+  - id: sveggiani.vscode-field-lights
+    uuid: 540c422b-bb90-470c-a130-e4c3aa473f9f
   - id: tal7aouy.icons
     uuid: dcd805cf-7bf1-458e-8739-26a6077c784f
   - id: teabyii.ayu
