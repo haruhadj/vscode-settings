@@ -68,6 +68,8 @@ enabled:
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: GulajavaMinistudio.mayukaithemevsc
     uuid: 9512804a-4de2-4348-9387-3c04e8c7876e
+  - id: helgardrichard.helium-icon-theme
+    uuid: 235f4502-e288-45b4-a36c-3c0825d81e1b
   - id: jamesmaj.easy-icons
     uuid: ffc5b1ef-b383-414d-a362-0886a529251f
   - id: jdinhlife.gruvbox
