@@ -26,6 +26,8 @@ enabled:
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: Catppuccin.catppuccin-vsc-icons
     uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
+  - id: chadalen.vscode-jetbrains-icon-theme
+    uuid: 641f0c25-0eca-440e-bcf8-8d36d9f23044
   - id: christian-kohler.npm-intellisense
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: christian-kohler.path-intellisense
@@ -76,6 +78,10 @@ enabled:
     uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
   - id: jeff-hykin.better-cpp-syntax
     uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
+  - id: jtlowe.vscode-icon-theme
+    uuid: 0c39b1dc-26df-4737-bb73-a98913b3ddad
+  - id: karyfoundation.theme-karyfoundation-themes
+    uuid: a150991b-031b-457a-b823-ef4c45425a1b
   - id: Katsute.code-background
     uuid: 728b0910-614c-4963-a30b-cc6c0b51eb62
   - id: kisstkondoros.vscode-gutter-preview
@@ -122,6 +128,8 @@ enabled:
     uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
   - id: ms-vscode.remote-server
     uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
+  - id: mvllow.rose-pine
+    uuid: 6ef63bba-e6b8-4209-b562-9a927f36ae8f
   - id: Nimda.deepdark-material
     uuid: d1b33efe-8957-4d14-9ef6-e043fdbe9079
   - id: PKief.material-icon-theme
@@ -160,6 +168,8 @@ enabled:
     uuid: 7f147721-ec06-4043-9e37-c9ffbecbccd1
   - id: yandeu.five-server
     uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
+  - id: Yummygum.city-lights-icon-vsc
+    uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
   - id: zhuangtongfa.material-theme
     uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks
