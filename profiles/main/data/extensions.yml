@@ -16,6 +16,8 @@ enabled:
     uuid: b027c4b2-25ad-46db-b574-05dae3b2dc92
   - id: azemoh.theme-onedark
     uuid: cc1b9e15-8d4e-43ed-8a31-b81683af6bc4
+  - id: be5invis.vscode-icontheme-nomo-dark
+    uuid: e0ee11e7-aa20-4e86-a3b9-2cd7d14fed93
   - id: BeardedBear.beardedicons
     uuid: 1b7bdcac-09ba-421c-bdde-081928177de7
   - id: BeardedBear.beardedtheme
@@ -28,6 +30,8 @@ enabled:
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: davidbabel.vscode-simpler-icons
+    uuid: 8bfd87ec-2032-4a0e-a630-71eed81a027e
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: DigitalBrainstem.javascript-ejs-support
@@ -64,6 +68,8 @@ enabled:
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: GulajavaMinistudio.mayukaithemevsc
     uuid: 9512804a-4de2-4348-9387-3c04e8c7876e
+  - id: jamesmaj.easy-icons
+    uuid: ffc5b1ef-b383-414d-a362-0886a529251f
   - id: jdinhlife.gruvbox
     uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
   - id: jeff-hykin.better-cpp-syntax
@@ -80,6 +86,8 @@ enabled:
     uuid: 94967fdb-d7bf-44d0-b131-12700358b0ab
   - id: miguelsolorio.fluent-icons
     uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
+  - id: miguelsolorio.symbols
+    uuid: cb54c3b9-1c64-4c4a-8b5a-887270ffe4b6
   - id: monokai.theme-monokai-pro-vscode
     uuid: f5d7ffda-c1d6-4070-ba80-803c705a1ee6
   - id: ms-python.debugpy
