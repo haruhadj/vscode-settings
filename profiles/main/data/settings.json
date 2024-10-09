@@ -48,7 +48,6 @@
     "workbench.colorTheme": "Catppuccin Mocha",
     "workbench.iconTheme": "symbols",
     "workbench.productIconTheme": "material-product-icons",
-    "syncSettings.confirmSync": true,
     "syncSettings.crons": {
         "upload": "*/6 * * * *"
     },
