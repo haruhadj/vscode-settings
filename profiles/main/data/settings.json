@@ -46,7 +46,7 @@
         // }
     },
     "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.iconTheme": "ayu",
+    "workbench.iconTheme": "file-icons",
     "workbench.productIconTheme": "material-product-icons",
     "syncSettings.confirmSync": true,
     "syncSettings.crons": {
