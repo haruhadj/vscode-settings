@@ -52,7 +52,7 @@
         "upload": "*/6 * * * *"
     },
     "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "code-runner.runInTerminal": true,
     "remote.SSH.remotePlatform": {
