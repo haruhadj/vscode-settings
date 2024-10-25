@@ -7,5 +7,9 @@
     {
         "key": "ctrl+shift+alt+f10",
         "command": "syncSettings.viewDifferences"
+    },
+    {
+        "key": "ctrl+shift+alt+f",
+        "command": "editor.action.formatDocument.multiple"
     }
 ]
