@@ -58,5 +58,6 @@
     "remote.SSH.remotePlatform": {
         "opipc-main": "linux"
     },
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.fontSize": 12
 }
