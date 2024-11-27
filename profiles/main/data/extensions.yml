@@ -31,12 +31,12 @@ disabled:
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
   - id: christian-kohler.npm-intellisense
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
-  - id: christian-kohler.path-intellisense
-    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
-  - id: Codeium.codeium
-    uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
+  - id: Codeium.codeium
+    uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: donjayamanne.python-environment-manager
