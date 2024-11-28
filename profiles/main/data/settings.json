@@ -60,5 +60,6 @@
     },
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.fontSize": 12,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "workbench.editor.empty.hint": "hidden"
 }
