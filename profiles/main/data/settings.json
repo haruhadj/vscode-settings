@@ -59,5 +59,6 @@
         "opipc-main": "linux"
     },
     "security.workspace.trust.untrustedFiles": "open",
-    "terminal.integrated.fontSize": 12
+    "terminal.integrated.fontSize": 12,
+    "files.autoSave": "afterDelay"
 }
