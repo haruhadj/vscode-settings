@@ -45,7 +45,7 @@
         //     "startingDirectory": "C:\\Users\\haruhadj\\scoop\\apps\\msys2\\current\\home\\${env:USERNAME}"
         // }
     },
-    "workbench.colorTheme": "Mayukai Alucard",
+    "workbench.colorTheme": "Mayukai Midnight",
     "workbench.iconTheme": "symbols",
     "workbench.productIconTheme": "material-product-icons",
     "syncSettings.crons": {
