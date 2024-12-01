@@ -62,5 +62,5 @@
     "terminal.integrated.fontSize": 12,
     "files.autoSave": "afterDelay",
     "workbench.editor.empty.hint": "hidden",
-    "editor.cursorStyle": "underline-thin"
+    "editor.cursorStyle": "block"
 }
