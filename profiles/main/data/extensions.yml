@@ -26,6 +26,8 @@ enabled:
     uuid: d1818e93-bccc-4812-8b8b-37aabc5a7a94
   - id: bierner.markdown-checkbox
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
+  - id: BracketPairColorDLW.bracket-pair-color-dlw
+    uuid: 0dedb7c6-8c0a-4eb3-a66e-28f110e24973
   - id: Catppuccin.catppuccin-vsc
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: Catppuccin.catppuccin-vsc-icons
