@@ -98,6 +98,8 @@ enabled:
     uuid: eedfd044-d5ac-4389-973d-3ac1fdb98ad5
   - id: kuscamara.electron
     uuid: 975d187d-7d95-4292-92ef-ad9e8f083ca3
+  - id: LeonardSSH.vscord
+    uuid: 20675c06-f272-4cc8-8611-83ebb5583c5a
   - id: magicstack.MagicPython
     uuid: 1f5eb737-5496-44a3-a8a1-36a85eee4979
   - id: melishev.feather-vscode

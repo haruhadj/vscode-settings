@@ -63,5 +63,9 @@
     "files.autoSave": "afterDelay",
     "workbench.editor.empty.hint": "hidden",
     "editor.cursorStyle": "block",
-    "editor.guides.bracketPairs": "active"
+    "editor.guides.bracketPairs": "active",
+    "vscord.app.privacyMode.enable": true,
+    "vscord.status.idle.check": false,
+    "vscord.status.idle.enabled": false,
+    "vscord.status.idle.disconnectOnIdle": true
 }
