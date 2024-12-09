@@ -67,5 +67,7 @@
     "vscord.app.privacyMode.enable": true,
     "vscord.status.idle.check": false,
     "vscord.status.idle.enabled": false,
-    "vscord.status.idle.disconnectOnIdle": true
+    "vscord.status.idle.disconnectOnIdle": true,
+    "vscord.status.state.enabled": false,
+    "vscord.status.details.idle.enabled": false
 }
