@@ -9,8 +9,8 @@ builtin:
     - vscode.git
     - vscode.git-base
     - vscode.github
-    - vscode.gulp
     - vscode.grunt
+    - vscode.gulp
     - vscode.html-language-features
     - vscode.ipynb
     - vscode.jake
@@ -44,12 +44,12 @@ disabled:
     uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: ecmel.vscode-html-css
     uuid: aaee577c-f062-495a-9816-0cbd442f1d25
-  - id: edwinhuish.better-comments-next
-    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: edwinhuish.better-comments-next
+    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: kisstkondoros.vscode-gutter-preview
     uuid: eedfd044-d5ac-4389-973d-3ac1fdb98ad5
   - id: magicstack.MagicPython
