@@ -41,10 +41,10 @@ disabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: donjayamanne.python-environment-manager
     uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
-  - id: edwinhuish.better-comments-next
-    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: ecmel.vscode-html-css
     uuid: aaee577c-f062-495a-9816-0cbd442f1d25
+  - id: edwinhuish.better-comments-next
+    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
