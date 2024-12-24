@@ -55,6 +55,8 @@ disabled:
     uuid: 1f5eb737-5496-44a3-a8a1-36a85eee4979
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
   - id: ms-vscode.cmake-tools
@@ -87,8 +89,6 @@ disabled:
     uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
-  - id: ms-python.python
-    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
