@@ -12,8 +12,8 @@ builtin:
     - vscode.grunt
     - vscode.gulp
     - vscode.html-language-features
-    - vscode.jake
     - vscode.ipynb
+    - vscode.jake
     - vscode.json-language-features
     - vscode.markdown-language-features
     - vscode.markdown-math
