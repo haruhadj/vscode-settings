@@ -16,8 +16,8 @@ builtin:
     - vscode.jake
     - vscode.json-language-features
     - vscode.markdown-language-features
-    - vscode.merge-conflict
     - vscode.markdown-math
+    - vscode.merge-conflict
     - ms-vscode.js-debug
     - ms-vscode.vscode-js-profile-table
     - vscode.npm
