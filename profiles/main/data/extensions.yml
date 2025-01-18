@@ -2,8 +2,8 @@ builtin:
   disabled:
     - vscode.configuration-editing
     - vscode.css-language-features
-    - vscode.debug-server-ready
     - vscode.debug-auto-launch
+    - vscode.debug-server-ready
     - vscode.emmet
     - vscode.extension-editing
     - vscode.git
@@ -30,12 +30,12 @@ builtin:
 disabled:
   - id: bierner.markdown-checkbox
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
+  - id: christian-kohler.npm-intellisense
+    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: Codeium.codeium
     uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
-  - id: christian-kohler.npm-intellisense
-    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
@@ -62,10 +62,10 @@ disabled:
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
   - id: ms-vscode.cmake-tools
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
-  - id: ms-vscode.cpptools-extension-pack
-    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
   - id: ms-vscode.cpptools
     uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
   - id: ms-vscode.live-server
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: pranaygp.vscode-css-peek
