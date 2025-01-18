@@ -7,10 +7,10 @@ builtin:
     - vscode.emmet
     - vscode.extension-editing
     - vscode.git
-    - vscode.git-base
     - vscode.github
     - vscode.grunt
     - vscode.gulp
+    - vscode.git-base
     - vscode.html-language-features
     - vscode.ipynb
     - vscode.jake
