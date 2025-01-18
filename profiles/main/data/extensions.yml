@@ -30,8 +30,6 @@ builtin:
 disabled:
   - id: bierner.markdown-checkbox
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
-  - id: christian-kohler.npm-intellisense
-    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: Codeium.codeium
@@ -40,24 +38,24 @@ disabled:
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
-  - id: donjayamanne.python-environment-manager
-    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: ecmel.vscode-html-css
     uuid: aaee577c-f062-495a-9816-0cbd442f1d25
   - id: edwinhuish.better-comments-next
     uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: christian-kohler.npm-intellisense
+    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: kisstkondoros.vscode-gutter-preview
     uuid: eedfd044-d5ac-4389-973d-3ac1fdb98ad5
   - id: magicstack.MagicPython
     uuid: 1f5eb737-5496-44a3-a8a1-36a85eee4979
-  - id: ms-python.debugpy
-    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
   - id: ms-vscode.cmake-tools
@@ -68,6 +66,8 @@ disabled:
     uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
   - id: ms-vscode.live-server
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
+  - id: donjayamanne.python-environment-manager
+    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
   - id: pushqrdx.inline-html
@@ -86,10 +86,10 @@ disabled:
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: yandeu.five-server
     uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
-  - id: Yummygum.city-lights-icon-vsc
-    uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
+  - id: Yummygum.city-lights-icon-vsc
+    uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
