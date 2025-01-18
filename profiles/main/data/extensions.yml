@@ -6,8 +6,8 @@ builtin:
     - vscode.debug-server-ready
     - vscode.emmet
     - vscode.extension-editing
-    - vscode.git
     - vscode.git-base
+    - vscode.git
     - vscode.github
     - vscode.grunt
     - vscode.gulp
@@ -82,14 +82,14 @@ disabled:
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
-  - id: VisualStudioExptTeam.vscodeintellicode
-    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: yandeu.five-server
     uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
   - id: Yummygum.city-lights-icon-vsc
     uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
