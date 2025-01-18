@@ -2,8 +2,8 @@ builtin:
   disabled:
     - vscode.configuration-editing
     - vscode.css-language-features
-    - vscode.debug-server-ready
     - vscode.debug-auto-launch
+    - vscode.debug-server-ready
     - vscode.emmet
     - vscode.extension-editing
     - vscode.git
@@ -16,8 +16,8 @@ builtin:
     - vscode.jake
     - vscode.json-language-features
     - vscode.markdown-language-features
-    - vscode.markdown-math
     - vscode.merge-conflict
+    - vscode.markdown-math
     - ms-vscode.js-debug
     - ms-vscode.vscode-js-profile-table
     - vscode.npm
