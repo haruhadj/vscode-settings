@@ -30,18 +30,18 @@ builtin:
 disabled:
   - id: bierner.markdown-checkbox
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
-  - id: christian-kohler.npm-intellisense
-    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: christian-kohler.npm-intellisense
+    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: Codeium.codeium
     uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
-  - id: donjayamanne.python-environment-manager
-    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: donjayamanne.python-environment-manager
+    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: ecmel.vscode-html-css
     uuid: aaee577c-f062-495a-9816-0cbd442f1d25
   - id: edwinhuish.better-comments-next
@@ -60,6 +60,8 @@ disabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.cpptools
     uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
   - id: ms-vscode.cpptools-extension-pack
@@ -76,6 +78,8 @@ disabled:
     uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
   - id: tal7aouy.icons
     uuid: dcd805cf-7bf1-458e-8739-26a6077c784f
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
   - id: VisualStudioExptTeam.vscodeintellicode
@@ -86,10 +90,6 @@ disabled:
     uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
-  - id: twxs.cmake
-    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
-  - id: ms-vscode.cmake-tools
-    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
