@@ -70,10 +70,10 @@ disabled:
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
-  - id: pushqrdx.inline-html
-    uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: pushqrdx.inline-html
+    uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
   - id: shd101wyy.markdown-preview-enhanced
     uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
   - id: tal7aouy.icons
