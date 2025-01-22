@@ -60,7 +60,6 @@
         "raspi5": "linux"
     },
     "security.workspace.trust.untrustedFiles": "open",
-    "terminal.integrated.fontSize": 12,
     "workbench.editor.empty.hint": "hidden",
     "editor.cursorStyle": "block",
     "editor.guides.bracketPairs": "active",
