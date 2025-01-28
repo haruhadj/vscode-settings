@@ -69,5 +69,6 @@
     "vscord.status.state.text.viewing": "Viewing {file_extension} file",
     "vscord.status.idle.resetElapsedTime": true,
     "files.autoSave": "afterDelay",
-    "terminal.external.windowsExec": "C:\\Users\\haruhadj\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+    "terminal.external.windowsExec": "wt.exe",
+    "terminal.explorerKind": "external"
 }
