@@ -39,6 +39,8 @@ disabled:
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: donjayamanne.python-environment-manager
+    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: ecmel.vscode-html-css
     uuid: aaee577c-f062-495a-9816-0cbd442f1d25
   - id: edwinhuish.better-comments-next
@@ -47,8 +49,6 @@ disabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
-  - id: donjayamanne.python-environment-manager
-    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: kisstkondoros.vscode-gutter-preview
     uuid: eedfd044-d5ac-4389-973d-3ac1fdb98ad5
   - id: magicstack.MagicPython
