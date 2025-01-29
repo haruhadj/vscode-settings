@@ -2,8 +2,8 @@ builtin:
   disabled:
     - vscode.configuration-editing
     - vscode.css-language-features
-    - vscode.debug-auto-launch
     - vscode.debug-server-ready
+    - vscode.debug-auto-launch
     - vscode.emmet
     - vscode.extension-editing
     - vscode.git
