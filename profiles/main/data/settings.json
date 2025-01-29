@@ -70,5 +70,5 @@
     "vscord.status.idle.resetElapsedTime": true,
     "files.autoSave": "afterDelay",
     "terminal.external.windowsExec": "wt.exe",
-    "terminal.explorerKind": "external"
+    // "terminal.explorerKind": "external"
 }
