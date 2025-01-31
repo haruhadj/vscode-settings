@@ -61,7 +61,6 @@
     },
     "security.workspace.trust.untrustedFiles": "open",
     "workbench.editor.empty.hint": "hidden",
-    "editor.cursorStyle": "block",
     "editor.guides.bracketPairs": "active",
     "vscord.status.idle.disconnectOnIdle": true,
     "vscord.status.details.enabled": false,
