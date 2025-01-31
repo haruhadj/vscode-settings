@@ -45,7 +45,7 @@
         //     "startingDirectory": "C:\\Users\\haruhadj\\scoop\\apps\\msys2\\current\\home\\${env:USERNAME}"
         // }
     },
-    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.iconTheme": "symbols",
     "workbench.productIconTheme": "material-product-icons",
     "syncSettings.crons": {
