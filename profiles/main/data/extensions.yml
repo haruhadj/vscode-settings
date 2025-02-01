@@ -32,10 +32,10 @@ disabled:
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
   - id: christian-kohler.npm-intellisense
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
-  - id: christian-kohler.path-intellisense
-    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: Codeium.codeium
     uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
@@ -70,6 +70,8 @@ disabled:
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
+  - id: pushqrdx.inline-html
+    uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: shd101wyy.markdown-preview-enhanced
@@ -82,8 +84,6 @@ disabled:
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
   - id: VisualStudioExptTeam.vscodeintellicode
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
-  - id: pushqrdx.inline-html
-    uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
   - id: yandeu.five-server
     uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
   - id: Yummygum.city-lights-icon-vsc
