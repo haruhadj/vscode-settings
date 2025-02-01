@@ -12,13 +12,13 @@ builtin:
     - vscode.grunt
     - vscode.gulp
     - vscode.html-language-features
-    - vscode.ipynb
     - vscode.jake
     - vscode.json-language-features
     - vscode.markdown-language-features
     - vscode.markdown-math
     - vscode.merge-conflict
     - ms-vscode.js-debug
+    - vscode.ipynb
     - ms-vscode.vscode-js-profile-table
     - vscode.npm
     - vscode.php-language-features
