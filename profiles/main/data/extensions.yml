@@ -9,8 +9,8 @@ builtin:
     - vscode.git
     - vscode.git-base
     - vscode.github
-    - vscode.gulp
     - vscode.grunt
+    - vscode.gulp
     - vscode.html-language-features
     - vscode.ipynb
     - vscode.jake
