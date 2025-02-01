@@ -66,6 +66,8 @@ disabled:
     uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
   - id: ms-vscode.cpptools-extension-pack
     uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vscode.live-server
+    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
   - id: pushqrdx.inline-html
@@ -88,8 +90,6 @@ disabled:
     uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
-  - id: ms-vscode.live-server
-    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
