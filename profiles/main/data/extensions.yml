@@ -12,13 +12,13 @@ builtin:
     - vscode.grunt
     - vscode.gulp
     - vscode.html-language-features
+    - vscode.ipynb
     - vscode.jake
     - vscode.json-language-features
     - vscode.markdown-language-features
     - vscode.markdown-math
     - vscode.merge-conflict
     - ms-vscode.js-debug
-    - vscode.ipynb
     - ms-vscode.vscode-js-profile-table
     - vscode.npm
     - vscode.php-language-features
@@ -70,8 +70,6 @@ disabled:
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
-  - id: pushqrdx.inline-html
-    uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: shd101wyy.markdown-preview-enhanced
@@ -84,6 +82,8 @@ disabled:
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
   - id: VisualStudioExptTeam.vscodeintellicode
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: pushqrdx.inline-html
+    uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
   - id: yandeu.five-server
     uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
   - id: Yummygum.city-lights-icon-vsc
