@@ -69,5 +69,6 @@
     "vscord.status.idle.resetElapsedTime": true,
     "files.autoSave": "afterDelay",
     "terminal.external.windowsExec": "wt.exe",
+    "terminal.integrated.fontSize": 12,
     // "terminal.explorerKind": "external"
 }

@@ -11,5 +11,10 @@
     {
         "key": "ctrl+shift+alt+f",
         "command": "editor.action.formatDocument.multiple"
+    },
+    {
+        "key": "ctrl+shift+alt+t",
+        "command": "workbench.action.createTerminalEditorSide",
+        "when": "terminalProcessSupported"
     }
 ]
