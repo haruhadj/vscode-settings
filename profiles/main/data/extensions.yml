@@ -74,8 +74,6 @@ disabled:
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
   - id: pushqrdx.inline-html
     uuid: 926ba2ee-eff4-40d0-a87b-af6b6e3d99fd
-  - id: redhat.vscode-yaml
-    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: searKing.preview-vscode
     uuid: 03e014a0-a915-4672-92b3-77e5a6ad72df
   - id: shd101wyy.markdown-preview-enhanced
@@ -92,6 +90,8 @@ disabled:
     uuid: b7b3f8c2-0526-4262-9e55-045c954adac4
   - id: yandeu.five-server
     uuid: a18a6705-5a6a-4e14-a4a7-3efa6b7647d5
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: Yummygum.city-lights-icon-vsc
     uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
   - id: yzhang.markdown-all-in-one
