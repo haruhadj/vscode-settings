@@ -78,6 +78,8 @@ enabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
+  - id: Gruntfuggly.mermaid-export
+    uuid: ad521f2a-72b5-40e3-b753-7e074a84f90b
   - id: GulajavaMinistudio.mayukaithemevsc
     uuid: 9512804a-4de2-4348-9387-3c04e8c7876e
   - id: helgardrichard.helium-icon-theme
