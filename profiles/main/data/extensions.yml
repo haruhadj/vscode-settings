@@ -26,6 +26,8 @@ enabled:
     uuid: d1818e93-bccc-4812-8b8b-37aabc5a7a94
   - id: bierner.markdown-checkbox
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
+  - id: bpruitt-goddard.mermaid-markdown-syntax-highlighting
+    uuid: 08792992-bb56-41fb-b5dd-8551bbee0cb6
   - id: Catppuccin.catppuccin-vsc
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: Catppuccin.catppuccin-vsc-icons
@@ -158,6 +160,8 @@ enabled:
     uuid: e5fd2b56-1637-4d4f-8252-6c9d416f9a28
   - id: sdras.night-owl
     uuid: e58f546c-babc-455f-a265-ba40dbd140d4
+  - id: searKing.preview-vscode
+    uuid: 03e014a0-a915-4672-92b3-77e5a6ad72df
   - id: shd101wyy.markdown-preview-enhanced
     uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
   - id: sveggiani.vscode-field-lights
@@ -178,6 +182,8 @@ enabled:
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: vstirbu.vscode-mermaid-preview
+    uuid: b7b3f8c2-0526-4262-9e55-045c954adac4
   - id: whizkydee.material-palenight-theme
     uuid: 7f147721-ec06-4043-9e37-c9ffbecbccd1
   - id: yandeu.five-server
