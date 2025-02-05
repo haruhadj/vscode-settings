@@ -25,8 +25,8 @@ builtin:
     - vscode.references-view
     - vscode.search-result
     - vscode.terminal-suggest
-    - vscode.tunnel-forwarding
     - vscode.typescript-language-features
+    - vscode.tunnel-forwarding
 disabled:
   - id: bierner.markdown-checkbox
     uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
