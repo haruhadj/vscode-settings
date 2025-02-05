@@ -46,6 +46,8 @@ disabled:
     uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
   - id: ecmel.vscode-html-css
     uuid: aaee577c-f062-495a-9816-0cbd442f1d25
+  - id: edwinhuish.better-comments-next
+    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
@@ -80,8 +82,6 @@ disabled:
     uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
   - id: tal7aouy.icons
     uuid: dcd805cf-7bf1-458e-8739-26a6077c784f
-  - id: edwinhuish.better-comments-next
-    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
   - id: twxs.cmake
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
