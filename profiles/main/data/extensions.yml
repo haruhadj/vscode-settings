@@ -1,6 +1,6 @@
 disabled:
   - id: Codeium.codeium
-    uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
